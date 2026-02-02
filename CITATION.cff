@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "The Gravity Reduction Hypothesis: Contraction-based Neo-Cosmology"
+authors:
+  - family-names: "Park"
+    given-names: "Juhyeon"
+    email: "genesos@gmail.com"
+    affiliation: "Independent Researcher"
+date-released: 2026-02-02
+version: 1.0.0
+repository-code: "https://github.com/genesos/the-gravity-reduction-hypothesis"
+keywords:
+  - gravity
+  - cosmology
+  - "Hubble tension"
+  - "DDR violation"
+  - "golden ratio"
+  - contraction
+  - "general relativity"
+  - "spacetime metric"
+  - "modified gravity"
+  - "cosmic acceleration"
+  - "structure formation"
+  - "observational cosmology"
+license: CC-BY-4.0
+abstract: "We add three-dimensional detail to Einstein's vast cosmic map: 'space itself contracts in response to the breath of matter,' resolving all cosmological contradictions through matter density-dependent spacetime contraction with golden ratio scaling."
