@@ -68,10 +68,13 @@ This theory is not a simple coordinate transformation, but a new paradigm in whi
 ## Overview
 
 **제목:** 중력 축소 가설 (The Gravity Reduction Hypothesis)
+
 **부제:** 수축 기반 신우주론 (Contraction-based Neo-Cosmology)
 
 **논문 제목 (한글):** 중력 축소 가설: 수축 기반 신우주론
+
 **Paper Title (English):** The Gravity Reduction Hypothesis: Contraction-based Neo-Cosmology
+
 **저자:** 박주현 (Juhyeon Park) - genesos@gmail.com
 
 ### Files
