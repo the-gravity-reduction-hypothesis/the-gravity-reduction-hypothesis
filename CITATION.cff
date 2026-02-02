@@ -9,6 +9,7 @@ authors:
     affiliation: "Independent Researcher"
 date-released: 2026-02-02
 version: 1.0.0
+doi: 10.5281/zenodo.18458872
 repository-code: "https://github.com/genesos/the-gravity-reduction-hypothesis"
 keywords:
   - gravity

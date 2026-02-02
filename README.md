@@ -2,6 +2,8 @@
 
 > 수축 기반 신우주론 (Contraction-based Neo-Cosmology)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18458872.svg)](https://doi.org/10.5281/zenodo.18458872)
+
 ## 📄 Papers
 
 - [English Version (PDF)](./result_en.pdf)
